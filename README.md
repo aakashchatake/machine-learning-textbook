@@ -1,5 +1,10 @@
 # Machine Learning: A Comprehensive Guide to Artificial Intelligence and Data Science
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![MSBTE Course](https://img.shields.io/badge/MSBTE-316316-blue.svg)](https://msbte.org.in/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-green.svg)](https://aakashchatake.github.io/machine-learning-textbook/)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)](https://github.com/akashchatake/machine-learning-textbook/releases)
+
 ## From Fundamentals to Advanced Applications
 
 **By:** Akash Chatake  
@@ -10,7 +15,20 @@
 
 ---
 
-> "Bridging Theory and Practice in the Age of AI"
+> **"Bridging Theory and Practice in the Age of AI"**
+
+## 🌐 **Access the Textbook**
+
+### 📖 **Read Online**
+[![Read Online](https://img.shields.io/badge/Read%20Online-Live%20Site-blue?style=for-the-badge)](https://aakashchatake.github.io/machine-learning-textbook/)
+
+### 📥 **Download Formats**
+| Format | Size | Best For | Download |
+|--------|------|----------|----------|
+| 📄 **PDF** | 977 KB | Printing, Professional | [Download PDF](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.pdf) |
+| 📝 **DOCX** | 575 KB | Editing, Academic | [Download DOCX](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.docx) |
+| 📱 **EPUB** | 655 KB | E-readers, Mobile | [Download EPUB](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.epub) |
+| 🌐 **HTML** | 4.3 MB | Web Viewing | [Download HTML](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.html) |
 
 ## 📚 About This Book
 
