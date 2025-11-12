@@ -1,0 +1,519 @@
+--- Page 1 ---
+Page 1/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+Programme Name/s: Computer  Technology/ Computer  Engineering/ Computer  Science & Engineering/
+Computer  Hardwar e & Maintenance/
+Information Technology/ Computer  Science & Information Technology/ Computer
+Science
+Programme Code : CM/ CO/ CW/ HA/ IF/ IH/ SE
+Semester : Sixth
+Course Title : MACHINE LEARNING
+Course Code : 316316
+I. RATIONALE
+A machine learning concepts equip students with fundamental knowledge and practical skills. Machine learning
+algorithms are important for data analysis, AI and Data Science. It emphasizes real-world applications such as data
+analytics, predictive analytics and problem-solving, which are in high demand across industries like healthcare,
+finance and technology .
+II. INDUSTR Y / EMPLOYER EXPECTED OUTCOME
+The aim of this course is to help the students to attain the following industry identified outcome through various
+teaching learning experiences: Apply machine learning ef fectively across various domains.
+III. COURSE LEVEL  LEARNING OUTCOMES (COS)
+Students will be able to achieve & demonstrate the following COs on completion of course based learning
+CO1 - Explain the role of machine learning in AI and data science.
+CO2 - Implement data preprocessing.
+CO3 - Implement feature engineering techniques to prepare data for machine learning models.
+CO4 - Apply supervised learning models to train and evaluate.
+CO5 - Apply unsupervised learning models to train and evaluate.
+IV. TEACHING-LEARNING & ASSESSMENT  SCHEME
+Course
+CodeCourse Title AbbrCourse
+Category/sLearning Scheme
+CreditsAssessment Scheme
+Actual
+Contact
+Hrs./W eek
+SLH NLHPaper
+DurationTheoryBased on LL  &
+TLBased on
+SLTotal
+Marks
+CLTLLLPractical
+FA-
+THSA-
+THTotal FA-PR SA-PR SLA
+Max Max Max Min Max Min Max Min Max Min
+316316MACHINE
+LEARNINGMAL DSE 3-2 1 6 3 3 30 70 100 40 25 1025# 10 25 10 175
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+
+--- Page 2 ---
+Page 2/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+Total IKS Hrs for  Sem. :  Hrs
+Abbreviations: CL- ClassRoom Learning , TL- Tutorial Learning, LL-Laboratory Learning, SLH-Self Learning
+Hours, NLH-Notional Learning Hours, F A - Formative Assessment, SA  -Summative assessment, IKS - Indian
+Knowledge System, SLA  - Self Learning Assessment
+Legends: @ Internal Assessment, # External Assessment, *# On Line Examination , @$ Internal Online
+Examination
+Note :
+1. FA-TH represents average of two class tests of 30 marks each conducted during the semester .
+2. If candidate is not securing minimum passing marks in F A-PR of any course then the candidate shall be
+declared as "Detained" in that semester .
+3. If candidate is not securing minimum passing marks in SLA  of any course then the candidate shall be
+declared as fail and will have to repeat and resubmit SLA  work.
+4. Notional Learning hours for the semester are (CL+LL+TL+SL)hrs.* 15 Weeks
+5. 1 credit is equivalent to 30 Notional hrs.
+6. * Self learning hours shall not be reflected in the Time Table.
+7. * Self learning includes micro project / assignment / other activities.
+V. THEOR Y LEARNING OUTCOMES AND ALIGNED COURSE CONTENT
+Sr.NoTheory Learning
+Outcomes (TLO's)aligned
+to CO's.Learning content mapped with Theory Learning
+Outcomes (TLO's) and CO's.Suggested
+Learning
+Pedagogies.
+1TLO 1.1 Describe
+machine learning concept.
+TLO 1.2 Compare
+Traditional vs ML  based
+Programming.
+TLO 1.3 Distinguish
+Supervised , unsupervised
+and Reinforcement
+learning.
+TLO 1.4 Explain the
+Challenges for Machine
+learning.
+TLO 1.5 Explain the
+features of python
+libraries used for Machine
+Libraries.Unit - I Intr oduction to Machine Learning
+1.1 Basics of ML  - Define Machine Learning, Traditional
+programming vs ML-based approaches, Role and
+application of ML  in artificial intelligence and data science
+1.2 Types of ML  (Supervised, Unsupervised, Reinforcement
+Learning)-Supervised Learning: Definition, working
+principle, examples (classification, regression),
+Unsupervised Learning: Definition, working principle,
+examples, Clustering, dimensionality reduction techniques,
+Reinforcement Learning: Concept of agents, rewards, and
+policy learning, Comparison of dif ferent ML  types with real-
+world applications
+1.3 Applications of ML- Real-world use cases of ML  in
+various domains such as healthcare, finance, e-commerce,
+etc, challenges in Machine Learning
+1.4 Introduction to Python for ML-Basics of Python
+programming relevant to ML, Overview required libraries:
+NumPy , Pandas, Matplotlib, Scikit-learn, Writing and
+executing simple ML  scripts in PythonLecture Using
+Chalk-Board
+Presentations
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+
+--- Page 3 ---
+Page 3/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+Sr.NoTheory Learning
+Outcomes (TLO's)aligned
+to CO's.Learning content mapped with Theory Learning
+Outcomes (TLO's) and CO's.Suggested
+Learning
+Pedagogies.
+2TLO 2.1 Illustrate the
+process of cleaning the
+data.
+TLO 2.2 Explain the
+functioning of algorithm
+used for handling missing
+values.
+TLO 2.3 Select the
+appropriate dataset
+splitting technique.Unit - II Data Pr eprocessing
+2.1 Data Cleaning :Introduction to Data Cleaning,
+Identifying and Handling Noisy Data, Removing Duplicates
+and Inconsistencies, Standardizing and Normalizing Data,
+Handling Outliers
+2.2 Handling Missing Values -T ypes of Missing Data,
+Identifying Missing Values, Techniques to Handle Missing
+Data, Removing Missing Data, Mean, Median, and Mode
+Imputation, Predictive Imputation (Regression, KNN),
+Using Algorithms that Support Missing Values
+2.3 Splitting Dataset for Training and Testing -Importance of
+Dataset Splitting, Train-T est Split Ratio Selection, Cross-
+Validation Techniques, K-Fold Cross Validation, Leave-
+One-Out Cross Validation, Stratified Sampling vs Random
+SamplingLecture Using
+Chalk-Board
+Presentations
+Video
+Demonstrations
+3TLO 3.1 Explain dif ferent
+feature selection methods.
+TLO 3.2 Illustrate the
+different feature extraction
+methods.Unit - III Featur e Selection
+3.1 Feature Scaling and Selection-Importance of Feature
+Scaling, Normalization vs Standardization, Feature
+Selection Methods, Filter Methods (Correlation, Chi-
+Square), Wrapper Methods (Forward, Backward Selection),
+Embedded Methods (Lasso, Decision Trees)
+3.2 Feature Extraction Techniques - Principal Component
+Analysis (PCA), Linear Discriminant Analysis (LDA)
+3.3 Mutual Information-Based Feature Selection, ANOV A
+(Analysis of Variance) for Feature Selection, Recursive
+Feature Elimination (RFE) with Cross-V alidation (RFECV),
+Feature Importance from Tree-Based Models (Beyond
+Decision Trees), XGBoost, LightGBM, Random Forest
+provide built-in feature importance scores (Gini importance,
+SHAP  values).Lecture Using
+Chalk-Board
+Presentations
+Demonstration
+4TLO 4.1 Distinguish the
+working of Decision Tree,
+KNN and SVM
+classification algorithm.
+TLO 4.2 Explain the
+working of specified
+Regression algorithm.
+TLO 4.3 Explain the
+process of model
+performance evaluation.Unit - IV  Supervised Learning
+4.1 Classification Algorithms: Decision Trees, KNN(K-
+Nearest Neighbors), SVM(Support Vector Machine)
+4.2 Regression Algorithms: Linear Regression, Logistic
+Regression, Ridge Regression
+4.3 Model Performance Evaluation: Confusion Matrix,
+Accuracy , Precision, RecallLecture Using
+Chalk-Board
+Presentations
+Demonstration
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+
+--- Page 4 ---
+Page 4/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+Sr.NoTheory Learning
+Outcomes (TLO's)aligned
+to CO's.Learning content mapped with Theory Learning
+Outcomes (TLO's) and CO's.Suggested
+Learning
+Pedagogies.
+5TLO 5.1 Explain the
+concept of clustering in
+data analysis and its
+significance.
+TLO 5.2 Compare K-
+Means and Hierarchical
+Clustering and choose the
+appropriate technique
+based on the problem.
+TLO 5.3 Describe the
+importance of
+Dimensionality reduction.
+TLO 5.4 Illustrate the
+process of dimensionality
+reduction using PCA.Unit - V Unsupervised Learning
+5.1 Clustering Techniques:-Define Clustering, Importance of
+clustering in data analysis, Applications of Clustering
+5.2 K-Means Clustering: Definition and working principle,
+Steps involved in the K-Means algorithm, Advantages of K-
+Means, Disadvantages of K-Means, Hierarchical Clustering:
+Definition and types, Steps in Hierarchical Clustering,
+Advantages of Hierarchical Clustering, Disadvantages of
+Hierarchical Clustering, Comparing K-Means and
+Hierarchical Clustering
+5.3 Dimensionality Reduction: Importance of
+Dimensionality Reduction
+5.4 PCA  -Definition and fundamental principles of PCA,
+Eigenvectors and eigenvalues, Steps in PCA, Explained
+Variance, Choosing the Optimal Dimensionality , Advantages
+and Disadvantages of PCA, Applications of PCALecture Using
+Chalk-Board
+Presentations
+Demonstration
+VI. LABORA TORY LEARNING OUTCOME AND ALIGNED PRACTICAL  / TUT ORIAL  EXPERIENCES.
+Practical / Tutorial / Laboratory Learning
+Outcome (LLO)Sr
+NoLaboratory Experiment / Practical
+Titles / Tutorial TitlesNumber
+of hrs.Relevant
+COs
+LLO 1.1 Install required platform to use
+Scikit-learn library .1*Installation of IDE with necessary
+libraries 2 CO1
+LLO 2.1 Write a program for handling
+missing values.
+LLO 2.2 Normalize data to make models
+work.
+LLO 2.3 Standardize data to make models
+work.
+LLO 2.4 Transform categorical data int
+numerical form using encoding methods.
+LLO 2.5 Split the dataset into train and test.2*Implement program for Data
+Preprocessing Techniques 2CO1
+CO2
+LLO 3.1 Write a program to read dataset and
+differentiate attributes in various category .3Implement program to read dataset (
+Text, CSV , JSON ,XML) 2 CO2
+LLO 4.1 Write a program to implement the
+Decision Tree model.
+LLO 4.2 Write a program to implement the
+K-Nearest Neighbor model.
+LLO 4.3 Evaluate classification performance
+using accuracy , precision, recall, and F1-
+score .4Implement the classification algorithms 
+on previously prepared dataset 4CO2
+CO3
+CO4
+LLO 5.1 Write a program to implement the
+Linear Regression by using the suitable
+dataset.
+LLO 5.2 Write a program to implement the
+logistic regression by using the suitable
+dataset.
+LLO 5.3 Write a program to implement the
+Ridge Regression by using the suitable
+dataset.
+LLO 5.4 Evaluate model performance using
+metrics.5*Implement the regression model by
+using the suitable dataset 4CO2
+CO4
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+
+--- Page 5 ---
+Page 5/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+Practical / Tutorial / Laboratory Learning
+Outcome (LLO)Sr
+NoLaboratory Experiment / Practical
+Titles / Tutorial TitlesNumber
+of hrs.Relevant
+COs
+LLO 6.1 Write a program to use clustering
+algorithms to find patterns in data.
+LLO 6.2 Visualize the results using
+Matplotlib / Seaborn.6*Implement program to use clustering
+algorithms to find patterns in data2CO3
+CO4
+LLO 7.1 Write a program to identify the
+most important features that contribute to the
+model accuracy .7Implement program to identify the most
+important features that contribute to the
+model accuracy2CO2
+CO3
+LLO 8.1 Write a program to use k-Nearest
+Neighbors (KNN) model for Classification
+on give dataset.
+LLO 8.2 Experiment with dif ferent values of
+K and measure model performance.8Implement program to use k-Nearest
+Neighbors (KNN) model for
+Classification on given dataset2 CO4
+LLO 9.1 Write a program to Train an SVM
+model on dataset.9*Implement program to train an SVM
+model on given  dataset2 CO4
+LLO 10.1 Write a program to use logistic
+regression model to classify binary
+outcomes.10Implement program to use logistic
+regression model to classify binary
+outcomes2 CO3
+LLO 1 1.1 Write a program to use PCA
+technique to reduce the number of features
+while retaining important information.11*Implement program to use PCA
+technique to reduce the number of
+features while retaining important
+information2 CO4
+LLO 12.1 Write a program to use any
+machine learning model on given dataset.
+LLO 12.2 Preprocess, analyze, and build
+models to get the meaningful insights.12*Implement program to use machine
+learning model on given dataset2CO4
+CO5
+LLO 13.1 Write a program to use Pandas,
+Matplotlib to analyze data of previously
+created model .
+LLO 13.2 Plot histograms, box plots, scatter
+plots, and correlation heatmaps to
+understand relationships between variables.13Implement program to use Pandas,
+Matplotlib to analyze data of previously
+created model 2CO4
+CO5
+LLO 14.1 Write a program to use any
+machine learning model on given dataset.
+LLO 14.2 Predict results based on various
+features using a regression model.14Implement program to use machine
+learning model on Boston Housing
+Dataset (available in Scikit-learn)2CO4
+CO5
+LLO 15.1 Write a program to make groups
+based on their features using K-Means
+Clustering.15Implement a program to segment
+customers into dif ferent groups based on
+their purchasing behavior features using
+K-Means Clustering4 CO5
+Note : Out of above suggestive LLOs -
+'*' Marked Practicals (LLOs) Are mandatory .
+Minimum 80% of above list of lab experiment are to be performed.
+Judicial mix of LLOs are to be performed to achieve desired outcomes.
+VII. SUGGESTED MICRO PROJECT  / ASSIGNMENT/ ACTIVITIES FOR SPECIFIC LEARNING /
+SKILLS DEVELOPMENT  (SELF  LEARNING)
+Micr o project
+The micro project should be based on one of the following area as suggested by the teacher: Industry
+application/Internet-based/workshop-based/laboratory-based/field-based.
+1.Develop a model for Waiter's Tip Prediction using Machine Learning algorithm , predict what amount of tip a person
+will give based on his/her visit to the restaurant using some features related to the same.
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+
+--- Page 6 ---
+Page 6/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+2.Implement a machine learning model which can predict the stock amount for the dif ferent products which are sold in
+different stores.
+3.Implement a model for Stock Price Prediction is the task of forecasting future stock prices based on historical data
+and various market indicators.
+4.Implement model to Predict Employee Attrition: Analyze HR datasets to determine factors af fecting employee
+retention.
+5.Implement model to perform Human Scream Detection and Analysis for Controlling Crime Rate using Machine
+Learning.
+Assignment
+Solve assignment covering all COs given by teacher .
+Other  Courses
+Students are encouraged to register themselves in various Swayam/MOOC's/Infosys Springboard courses to
+enhance their learning. Various courses available on machine learning courses with certificates for Free such as
+Generative AI / AI Python for beginners/ Google AI for Anyone / Linear regression/ AWS Deep Learning Containers /
+CS229: Machine Learning By Stanford/ Great Learning Academy .
+Note :
+Above is just a suggestive list of microprojects and assignments; faculty must prepare their own bank of
+microprojects, assignments, and activities in a similar way .
+The faculty must allocate judicial mix of tasks, considering the weaknesses and / strengths of the student in
+acquiring the desired skills.
+If a microproject is assigned, it is expected to be completed as a group activity .
+SLA marks shall be awarded as per the continuous assessment record.
+For courses with no SLA  component the list of suggestive microprojects / assignments/ activities are
+optional, faculty may encourage students to perform these tasks for enhanced learning experiences.
+If the course does not have associated SLA  component, above suggestive listings is applicable to Tutorials
+and maybe considered for F A-PR evaluations.
+VIII. LABORA TORY EQUIPMENT  / INSTRUMENTS / TOOLS / SOFTW ARE REQUIRED
+Sr.No Equipment Name with Br oad SpecificationsRelevant LLO
+Number
+1Computer system with a minimum 8GB RAM, Python/Jupyter Notebook/ Google
+Colab Free/unpaid Account/ AnacondaAll
+2Other Useful Tools:
+VS Code / PyCharm – Alternative Python development environments.
+Git & GitHub – For version control and project collaboration.
+Kaggle – Free datasets and cloud computing for ML  experiments.All
+IX. SUGGESTED WEIGHT AGE TO LEARNING EFFOR TS & ASSESSMENT  PURPOSE (Specification
+Table)
+Sr.NoUnit Unit TitleAligned
+COsLearning
+HoursR-
+LevelU-
+LevelA-
+LevelTotal
+Marks
+1 IIntroduction to Machine
+LearningCO1 6 2 6 4 12
+2 II Data Preprocessing CO2 10 4 8 4 16
+3 III Feature Selection CO3 9 2 4 4 10
+4 IV Supervised Learning CO4 10 4 8 4 16
+5 V Unsupervised Learning CO5 10 4 8 4 16
+Grand Total 45 16 34 20 70
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+
+--- Page 7 ---
+Page 7/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+X. ASSESSMENT  METHODOLOGIES/T OOLS
+Formative assessment (Assessment for  Learning)
+Continuous assessment based on process and product related performance indicators. Each practical will be
+assessed considering 60% weightage to process 40% weightage to product. A continuous assessment-based term work.
+Summative Assessment (Assessment of Learning)
+End Semester Examination, Lab Performance, Viva-voce.
+XI. SUGGESTED COS - POS MA TRIX FORM
+Course
+Outcomes
+(COs)Programme Outcomes (POs)Programme
+Specific
+Outcomes*
+(PSOs)
+PO-1 Basic
+and
+Discipline
+Specific
+KnowledgePO-2
+Problem
+AnalysisPO-3
+Design/
+Development
+of SolutionsPO-4
+Engineering
+ToolsPO-5
+Engineering
+Practices for
+Society ,
+Sustainability
+and
+Envir onmentPO-6 Pr oject
+ManagementPO-7
+Life
+Long
+LearningPSO-
+1PSO-
+2PSO-
+3
+CO1 3 2 2 3 1 1 3
+CO2 3 2 2 3 1 1 3
+CO3 3 2 2 3 1 1 3
+CO4 3 3 3 3 1 3 3
+CO5 3 3 3 3 1 3 3
+Legends :- High:03, Medium:02,Low:01, No Mapping: -
+*PSOs are to be formulated at institute level
+XII. SUGGESTED LEARNING MA TERIALS / BOOKS
+Sr.No Author TitlePublisher  with ISBN
+Number
+1 Yuxi Liu Python machine learning by examplesPackt publication
+ISBN:978-178355-31 1-2
+2Saikat Dutt,Subramanian
+ChandramouliAmit Kumar
+DasMachine LearningPerson ISBN 978-93-530-
+6669-7,eISBN: 978-93-
+895-8813-2
+3 Tom M Mitchell Machine LearningMcGraw Hill, First edition
+ISBN: 13: 978-
+0070428072
+4 Aurélien GéronHands-On Machine Learning with Scikit-Learn,
+Keras, and TensorFlow: Concepts, Tools, and
+Techniques to Build Intelligent SystemsO'Reilly Media ISBN-10
+1492032646
+5Sebastian Raschka, Vahid
+MirjaliliPython Machine LearningPackt Publishing ISBN:
+978-1800567703
+XIII . LEARNING WEBSITES & POR TALS
+Sr.No Link / Portal Description
+1https://machinelearningmastery .com/how-machine-learning-algo
+rithms-work/ML with Python
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+
+--- Page 8 ---
+Page 8/8MACHINE LEARNING Course Code : 316316
+Semester  - 6, K Scheme06-09-2025 1 1:36:56 AM
+Sr.No Link / Portal Description
+2 https://www .geeksfor geeks.or g/machine-learning/ ML Introduction
+3https://www .w3schools.com/python/python_ml_getting_started.a
+spML Python Basics
+4 https://www .coursera.or g/learn/machine-learning-with-python ML with Python
+5https://www .kdnuggets.com/5-free-courses-to-master -machine-l
+earningFree ML  Courses
+6 https://developers.google.com/machine-learning/crash-courseGoogle ML  Crash Course - Google ML
+Guide
+7 https://www .youtube.com/@machinelearning-sudeshnasa3607 ML Tutorials Video(NPTEL)
+8 https://www .youtube.com/watch?v=ukzFI9r gwfU ML Overview
+9 https://ekumbh.aicte-india.or g/allbook.php Python Programming
+10 https://arxiv .org/abs/2006.10092Housing Market Prediction Problem
+using Dif ferent Machine Learning
+Algorithms: A Case Study
+Note :
+Teachers are requested to check the creative common license status/financial implications of the suggested
+online educational resources before use by the students
+MSBTE Appr oval Dt. 04/09/20259/6/25, 11:36 AM 316316-MACHINE LEARNING
+

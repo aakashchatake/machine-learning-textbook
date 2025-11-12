@@ -1,0 +1,6 @@
+Error producing PDF.
+! Double superscript.
+\__um_superscript:n #1->^
+                         \bgroup #1\peek_meaning_remove:NTF ^\__um_arg_i_bef...
+l.8686 ...{n}|'beta_j| + 'lambda_2'sum_{j=1}^{n}'b
+
