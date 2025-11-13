@@ -26,7 +26,7 @@
 | Format | Size | Best For | Download |
 |--------|------|----------|----------|
 | 📄 **PDF** | 977 KB | Printing, Professional | [Download PDF](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.pdf) |
-| 📝 **DOCX** | 575 KB | Editing, Academic | [Download DOCX](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.docx) |
+| 📝 **DOCX** ⭐ | 575 KB | **Optimized, Best Version** | [Download DOCX](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.docx) |
 | 📱 **EPUB** | 655 KB | E-readers, Mobile | [Download EPUB](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.epub) |
 | 🌐 **HTML** | 4.3 MB | Web Viewing | [Download HTML](docs/downloads/Machine_Learning_A_Comprehensive_Guide_to_Artificial_Intelligence_and_Data_Science.html) |
 
